@@ -26,6 +26,9 @@ Run npm install to install all dependencies
 
 9.  Go to the output folder, find team.html and open it in your default web browser. this is your output web page for your team. It should look similar to below.
 
+## screenshot 
+<img width="1171" alt="Screen Shot 2021-03-03 at 8 54 30 PM" src="https://user-images.githubusercontent.com/71417462/109904430-de1cca00-7c62-11eb-9212-7b7ef54432aa.png">
+
 ## Tool & Resources
 
 Bootstrap - CSS framework used 
